@@ -1,7 +1,7 @@
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/westhofer">Westhofer</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/Westhofer/USERGE-X-rgbstyle"><img src="https://i.imgur.com/53mdl2v.png" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/Westhofer/USERGE-X-rgbstyle"><img src="https://imgur.com/WDCD4NX.png" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
@@ -45,7 +45,7 @@
    And after that, you pointed your fingers at us
    for getting your account deleted?
    We will be rolling on the floor laughing at you.
-   Yes! you heard it right.
+   Yes! you heard it right-Westhofer.
 /**
 ```
 ## Requirements 
