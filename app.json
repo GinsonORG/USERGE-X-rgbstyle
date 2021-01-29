@@ -1,6 +1,6 @@
 {
-    "name": "USERGE-X test",
-    "description": "telegram pluggable userbot",
+    "name": "USERGE-X For Westhofer ",
+    "description": "telegram pluggable userbot for personal use",
     "logo": "https://i.imgur.com/PlXD0aL.png",
     "keywords": [
         "USERGE-X",
@@ -10,9 +10,9 @@
         "Dual Mode",
         "Pyrogram"
     ],
-    "repository": "https://github.com/code-rgb/USERGE-X",
-    "website": "https://github.com/code-rgb/USERGE-X",
-    "success_url": "https://t.me/userge_x",
+    "repository": "https://github.com/Westhofer/USERGE-X-rgbstyle",
+    "website": "https://github.com/Westhofer/USERGE-X-rgbstyle",
+    "success_url": "https://t.me/westhofer",
     "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
