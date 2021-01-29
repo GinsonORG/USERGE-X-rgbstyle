@@ -154,7 +154,7 @@ class Bot_Alive:
     @staticmethod
     def alive_info():
         alive_info = f"""
-<a href="https://telegram.dog/x_xtests"><b>USERGE-X</a> is Up and Running.</b>
+<a href="https://telegram.dog/Westhofer"><b>USERGE-X[Westhofer]</a> is Up and Running.</b>
 
   🐍   <b>Python :</b>    <code>v{versions.__python_version__}</code>
   🔥   <b>Pyrogram :</b>    <code>v{versions.__pyro_version__}</code>
@@ -185,8 +185,8 @@ class Bot_Alive:
     @staticmethod
     def alive_default_imgs():
         alive_imgs = [
-            "https://telegra.ph/file/11123ef7dff2f1e19e79d.jpg",
-            "https://i.imgur.com/uzKdTXG.jpg",
+            "https://telegra.ph/file/e619c723c64f8b2cedd1a.jpg",
+            "https://imgur.com/WDCD4NX.png",
             "https://telegra.ph/file/6ecab390e4974c74c3764.png",
             "https://telegra.ph/file/995c75983a6c0e4499b55.png",
             "https://telegra.ph/file/86cc25c78ad667ca5e691.png",
