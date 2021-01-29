@@ -1,7 +1,7 @@
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/westhofer">Westhofer</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/code-rgb/USERGE-X"><img src="https://i.imgur.com/53mdl2v.png" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/Westhofer/USERGE-X-rgbstyle"><img src="https://i.imgur.com/53mdl2v.png" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
@@ -27,7 +27,7 @@
 **USERGE-X** is a Powerful , _Pluggable_ Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 <br>
 <p align="center">
-    <a href="https://telegram.dog/x_xtests"><img src="https://img.shields.io/badge/Support%20Group-USERGE--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
+    <a href="https://telegram.dog/westhofer"><img src="https://img.shields.io/badge/Support%20Group-USERGE--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 
 ## Disclaimer
 ```
@@ -56,7 +56,7 @@
 ## How To Deploy 
 * With Heroku:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/code-rgb/USERGE-X/tree/alpha"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/Westhofer/USERGE-X-rgbstyle/tree/alpha"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
