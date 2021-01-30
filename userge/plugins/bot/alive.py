@@ -177,7 +177,7 @@ class Bot_Alive:
         buttons = [
             [
                 InlineKeyboardButton(text="🔧  SETTINGS", callback_data="settings_btn"),
-                InlineKeyboardButton(text="⚡  REPO", url=Config.UPSTREAM_REPO),
+                InlineKeyboardButton(text="⚡  REPO", url="https://github.com/Westhofer/USERGE-X-rgbstyle"),
             ]
         ]
         return InlineKeyboardMarkup(buttons)
@@ -187,8 +187,8 @@ class Bot_Alive:
         alive_imgs = [
             "https://telegra.ph/file/e619c723c64f8b2cedd1a.jpg",
             "https://imgur.com/WDCD4NX.png",
-            "https://telegra.ph/file/6ecab390e4974c74c3764.png",
-            "https://telegra.ph/file/995c75983a6c0e4499b55.png",
-            "https://telegra.ph/file/86cc25c78ad667ca5e691.png",
+            "https://imgur.com/WDCD4NX.png",
+            "https://imgur.com/WDCD4NX.png",
+            "https://imgur.com/WDCD4NX.png",
         ]
         return rand_array(alive_imgs)
